@@ -1,10 +1,11 @@
-
 ## Hi there 👋, I'm Yash Kumar Shrivastav!
 
 🎓 **3rd-year B.Tech Student** in Petroleum Engineering at **IIT Dhanbad**  
 💻 **Full Stack Developer** | 🌐 **Open Source Contributor** | ⚙️ **Tech Enthusiast**
 
 [![An image of @kayashth1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kayashth1)](https://holopin.io/@kayashth1)
+
+---
 
 ### 🛠️ Technical Skills
 
@@ -22,25 +23,25 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+---
+
+### 📊 My GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayashth1&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=kayashth1&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayashth1&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kayashth1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📫 Let’s Connect!
 - [LinkedIn](https://linkedin.com/in/kayashth1)
 - [GitHub](https://github.com/kayashth1)
 - [Portfolio](https://yash-shrivastava.vercel.app)
 
-
-
-
-<!--
-**kayashth1/kayashth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
