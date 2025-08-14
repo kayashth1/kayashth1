@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yash Kumar Shrivastav!
 
-🎓 **3rd-year B.Tech Student** in Petroleum Engineering at **IIT Dhanbad**  
+🎓 **Final-year B.Tech Student** at **IIT Dhanbad**  
 💻 **Full Stack Developer** | 🌐 **Open Source Contributor** | ⚙️ **Tech Enthusiast**
 
 [![An image of @kayashth1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kayashth1)](https://holopin.io/@kayashth1)
